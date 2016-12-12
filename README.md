@@ -1,6 +1,6 @@
 # DL_exercises
 
-SOME DEEP LEARNING APPS
+SOME DEEP LEARNING APPLACATIONS
 
 ### [GAN](https://github.com/lyuwenyu/DL_exercises/tree/master/gan-generative%20adversarial%20network)
 

@@ -4,7 +4,7 @@ SOME DEEP LEARNING APPLACATIONS
 
 ### [GAN](https://github.com/lyuwenyu/DL_exercises/tree/master/gan-generative%20adversarial%20network) 
 1. sin-cos prediction 
-2. DCGAN- natual image ganeration 
+2. DCGAN- natual image generation 
 
 ### [RNN](https://github.com/lyuwenyu/DL_exercises/tree/master/pong-reinforcement%20learning) 
 three typses 

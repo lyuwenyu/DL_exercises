@@ -13,4 +13,8 @@ three typses
 PONG game
 
 ### [Social LSTM](https://github.com/lyuwenyu/DL_exercises/tree/master/social-lstm)
+social lstm
+
+### [style](https://github.com/lyuwenyu/DL_exercises/tree/master/style-transfer)
+style transfer
 

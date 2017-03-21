@@ -1,4 +1,6 @@
-# DL_exercises
+# DL_exercises 
+
+- tensorflow 0.11
 
 SOME DEEP LEARNING APPLACATIONS
 
